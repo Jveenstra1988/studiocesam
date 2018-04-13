@@ -1,0 +1,14 @@
+{
+  "name": "studiocesam",
+  "version": "1.0.0",
+  "description": "Studio Cesams new bootstrap 4 website",
+  "main": "index.php",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Beest Studio",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
